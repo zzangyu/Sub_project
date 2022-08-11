@@ -23,4 +23,4 @@ create table zipcode (
 	constraint zipcode_pk primary key(seq)
 );
 
-select * from zipcode;
+select * from student;

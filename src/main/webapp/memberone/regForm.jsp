@@ -90,7 +90,7 @@
 			<!-- 버튼 -->
 			<tr>
 				<td colspan="3" align="center">
-					<input type="button" value="회원가입" onclick="#">&nbsp;&nbsp;
+					<input type="button" value="회원가입" onclick="javascript:window.location='regProc.jsp'">&nbsp;&nbsp;
 					<input type="reset" value="다시입력">&nbsp;&nbsp;
 					<input type="button" value="이전페이지" onclick="javascript:window.location='login.jsp'">
 				</td>

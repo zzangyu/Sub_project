@@ -25,7 +25,7 @@
 				out.println("는 사용 가능한 ID입니다.");
 			}
 		%>
-		<a href="#" onclick="javascript:self.close()">닫기</a>
+		<a href="#" onclick="javascript:self.close()"><br>닫기</a>
 	</div>
 </body>
 </html>
