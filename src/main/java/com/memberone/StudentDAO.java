@@ -249,7 +249,6 @@ public class StudentDAO {
 	public void updateMember(StudentVO vo) {
 		Connection conn = null;
 		PreparedStatement pstm = null;
-		vo = new StudentVO();
 		
 		try {
 			conn = getConnection();
