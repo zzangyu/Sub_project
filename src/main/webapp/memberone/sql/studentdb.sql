@@ -22,5 +22,5 @@ create table zipcode (
 	bunji varchar2(20),
 	constraint zipcode_pk primary key(seq)
 );
-
+drop table student;
 select * from student;
